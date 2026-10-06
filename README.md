@@ -1,5 +1,5 @@
 🛍️ Fashion E-Commerce Website
-https://top-lift-96355087.figma.site
+
 A modern, responsive fashion e-commerce website designed with a premium visual experience, interactive product sections, smooth animations, and a mobile-friendly interface.
 
 ✨ Features
@@ -37,7 +37,7 @@ fashion-ecommerce-website/
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/fashion-ecommerce-website.git
+git clone https://top-lift-96355087.figma.site
 
 2. Open the project
 
